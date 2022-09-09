@@ -4,7 +4,7 @@
 	School: CHHS
 	Course: Computer Science 10
 	 
-	*/
+*/
 package review;
 
 public class TicTacToe 
