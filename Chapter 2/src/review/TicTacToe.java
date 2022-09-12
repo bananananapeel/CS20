@@ -1,8 +1,8 @@
 /*
-	Program: ${BingoCard}.java          Date: ${April 6 2022}
+	Program: ${TicTacToeCard}.java          Date: ${September 6 2022}
 	Author: Anjali Sanjay
 	School: CHHS
-	Course: Computer Science 10
+	Course: Computer Science 20
 	 
 */
 package review;
