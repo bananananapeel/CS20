@@ -1,10 +1,16 @@
 /*
-	Program: ${TicTacToeCard}.java          Date: ${September 6 2022}
-	Author: Anjali Sanjay
-	School: CHHS
-	Course: Computer Science 20
-	 
+
+Program: tictactoe.java          Last Date of this Revision: September 12, 2022
+
+Purpose: An application that displays a tictactoe board
+
+Author: Anjali Sanjay, 
+School: CHHS
+Course: Computer Programming 20
+ 
+
 */
+
 package review;
 
 public class TicTacToe 
