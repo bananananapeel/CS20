@@ -28,7 +28,7 @@ public class rectanglePerimeter
 		
 		int P = W*2 + L*2;
 		
-		System.out.println("The Permieter of a Rectagle with a width of 4 ")
+		System.out.println("The Permieter of a Rectagle with a width of 4 ");
 		
 	}
 
