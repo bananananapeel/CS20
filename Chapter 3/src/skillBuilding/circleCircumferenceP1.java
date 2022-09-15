@@ -12,7 +12,7 @@ public class circleCircumferenceP1
 		System.out.println("Please enter the radius of your circle: ");
 		double r = input.nextDouble();
 		
-		double c = 
+		double c;
 	}
 
 }
