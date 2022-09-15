@@ -1,3 +1,16 @@
+/*
+
+Program: digits.java          Last Date of this Revision: September 15, 2022
+
+Purpose: An application that calculates the digit in each number place
+
+Author: Anjali Sanjay, 
+School: CHHS
+Course: Computer Programming 20
+ 
+
+*/
+
 package skillBuilding;
 
 import java.util.Scanner;

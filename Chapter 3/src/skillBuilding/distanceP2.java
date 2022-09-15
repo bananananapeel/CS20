@@ -1,8 +1,8 @@
 /*
 
-Program: distanceP1.java          Last Date of this Revision: September 14, 2022
+Program: distanceP2.java          Last Date of this Revision: September 14, 2022
 
-Purpose: An application that calculates the total distance of a race with teh values given by user
+Purpose: An application that calculates the total distance of a race with the values given by user
 
 Author: Anjali Sanjay, 
 School: CHHS

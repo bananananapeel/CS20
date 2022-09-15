@@ -13,8 +13,6 @@ Course: Computer Programming 20
 
 package skillBuilding;
 
-import java.util.Scanner;
-
 public class rectanglePerimeter 
 {
 
@@ -34,3 +32,10 @@ public class rectanglePerimeter
 	}
 
 }
+/*
+ screen dump
+ 
+ The Permieter of a Rectagle with a width of 4 and a length of 13 is: 34
+
+ 
+ */
