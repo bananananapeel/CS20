@@ -9,6 +9,10 @@ public class circleCircumferenceP1
 	{
 		Scanner input = new Scanner(System.in);
 		
+		System.out.println("Please enter the radius of your circle: ");
+		double r = input.nextDouble();
+		
+		double c = 
 	}
 
 }
