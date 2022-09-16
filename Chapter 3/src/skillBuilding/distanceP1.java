@@ -21,7 +21,6 @@ public class distanceP1
 	public static void main(String[] args) 
 	{
 		DecimalFormat df = new DecimalFormat("0.0");
-
 		
 		double firstseg = 12.2;
 		double secondseg = 10.6;
